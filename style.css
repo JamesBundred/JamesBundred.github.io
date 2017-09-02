@@ -209,6 +209,7 @@ div {
 	font-style:normal;
 	list-style:none;
 	padding-top:1%;
+	color:rgb(255,255,255);
 }
 
 .footerlist{
@@ -219,7 +220,11 @@ div {
 
 .footerlist a:active{
 	text-decoration:none;
-	color:normal;
+	color:rgb(255,255,255);
+}
+.footerlist a{
+	color:rgb(255,255,255);
+	text-decoration:none;
 }
 
 .links {
