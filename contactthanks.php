@@ -1,7 +1,7 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Strict//EN">
 
 <head>
-	<title>A Nice & Simple Contact Form</title>
+	<title>Thanks!</title>
 	
 	<link rel="stylesheet" type="text/css" href="style.css" />
 </head>
@@ -10,11 +10,7 @@
 
 	<div id="page-wrap">
 
-		<img src="images/title.gif" alt="A Nice & Simple Contact Form" />
-		<p>By <a href="http://css-tricks.com">CSS-Tricks</a></p>
-			
-			
-		<br /><br />
+
 		
 			
 		<h1>Your message has been sent!</h1><br />
