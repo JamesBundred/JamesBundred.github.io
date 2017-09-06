@@ -359,20 +359,20 @@ text-transform: uppercase;
 	text-decoration:underline;
 }
 
-#furtherlinks{
+.furtherlinks{
 	margin:0% 10% 0% 10%;
 }
 
-#furtherlinks a{
+.furtherlinks a{
 	text-decoration:none;
 	color:rgb(186,64,101)
 }
 
-#furtherlinks a:hover{
+.furtherlinks a:hover{
 	text-decoration:underline;
 }
 
-#bio,#qualification,#committees,#publications,#furtherlinks {
+#bio,#qualification,#committees,#publications,.furtherlinks {
 	color:#53565b;
 }
 
