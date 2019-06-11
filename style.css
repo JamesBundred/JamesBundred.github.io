@@ -146,6 +146,11 @@ div {
 
 /* triple column formatting*/
 /*#ff0cea */
+
+.minirow1{
+	display:flex;
+}
+
 .colu{
 	margin:0% 2%;
 }	
@@ -160,7 +165,6 @@ div {
 
 #container4{padding-left:10%;}
 
-#container6{padding-right:10%}
 
 .blurb {
 	margin-left:5%;
@@ -171,6 +175,8 @@ div {
 	margin-left:5%;
 	margin-right: 5%;
 }
+
+/*end of section*/
 
 .summary{
 	padding:0;
