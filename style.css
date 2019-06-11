@@ -152,12 +152,14 @@ div {
 }
 
 #container3a{
-	height:10%;
+	height:10%; width:auto;
 }
 
 #lawyermonthly{
-	height:100px;
+	height:40px; width:auto;
 }
+
+
 
 .colu{
 	margin:0% 2%;
